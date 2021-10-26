@@ -17,7 +17,7 @@ export const Intro = () => (
       <h1 className="mt-5 sm:mt-0 text-center text-4xl font-semibold">
         Dimitri Kouvdis
       </h1>
-      <h2 className="text-center">Front-end | Full-stack Developer</h2>
+      <h2 className="text-center">Full-stack Developer</h2>
       <hr className="h-1 w-32 my-2 mx-auto border border-gray-600 bg-gray-600" />
     </div>
   </div>
