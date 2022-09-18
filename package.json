@@ -2,7 +2,7 @@
   "name": "dkouvdis.com",
   "version": "0.2.0",
   "engines": {
-    "node": "14.15.4"
+    "node": "14.17.3"
   },
   "private": true,
   "scripts": {
