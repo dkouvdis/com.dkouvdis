@@ -18,12 +18,10 @@
     "next": "^12.1.0",
     "postcss-import": "^12.0.1",
     "prettier": "^1.19.1",
-    "react": "16.12.0",
-    "react-dom": "16.12.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-ga": "^2.7.0",
     "tailwindcss": "^1.2.0"
-  },
-  "volta": {
-    "node": "14.15.4"
   }
 }
