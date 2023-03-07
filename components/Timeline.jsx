@@ -55,25 +55,13 @@ const Career = ({ career }) => (
 
 const Timeline = () => (
   <Grid title="Experiences">
-    <p className="text-xs">
-      Below is a summarised version of my work experience. For more detail,
-      check my{' '}
-      <a
-        href="//dkouvdis.github.io/cv/docs/dimitri_kouvdis_cv.pdf"
-        className="border-b border-blue-400"
-        target="_blank"
-        rel="noreferrer"
-      >
-        CV
-      </a>
-      .
-    </p>
-
     <ul className="timeline">
       {careers.map((career, index) => (
         <Career key={index} career={career} />
       ))}
     </ul>
+
+    <h4 className="mt-6 mb-10 font-semibold">Etc...</h4>
   </Grid>
 )
 

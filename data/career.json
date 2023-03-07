@@ -2,92 +2,79 @@
   {
     "company": "Equal Experts",
     "name": "equal-experts",
-    "image": "",
     "website": "//www.equalexperts.com/",
-    "date": ["2016", "Present"],
+    "date": ["2016", "2022/12"],
     "outsourced": [
+      {
+        "company": "Flink",
+        "name": "goflink",
+        "location": "Remote · Contract",
+        "website": "https://www.goflink.com/en/",
+        "date": ["2021/07", "2022/12"]
+      },
       {
         "company": "Pret a Manger",
         "name": "pret",
-        "location": "Remote",
-        "image": "",
+        "location": "Remote · Contract",
         "website": "//www.pret.com/",
-        "date": ["2020/12", "Present"]
+        "date": ["2020/12", "2021/06"]
       },
       {
         "company": "Caterpillar",
         "name": "cat",
-        "location": "Remote",
-        "image": "",
+        "location": "Remote · Contract",
         "website": "//www.caterpillar.com/",
         "date": ["2020/09", "2020/12"]
       },
       {
         "company": "John Lewis",
         "name": "john-lewis",
-        "location": "London",
-        "image": "",
+        "location": "London · Contract",
         "website": "//johnlewis.com/upholstery-beta",
         "date": ["2019", "2020/08"]
       },
       {
         "company": "O2",
         "name": "o2",
-        "location": "London",
-        "image": "",
+        "location": "London · Contract",
         "website": "//johnlewis.com/upholstery-beta",
         "date": ["2018/12"]
       },
       {
         "company": "Klarna",
         "name": "klarna",
-        "location": "Tel Aviv / Berlin / Stockholm",
-        "image": "",
+        "location": "Tel Aviv / Berlin / Stockholm · Contract",
         "website": "//johnlewis.com/upholstery-beta",
         "date": ["2018/02", "2018/11"]
       },
       {
         "company": "HM Revenue & Customs",
         "name": "hmrc",
-        "location": "London",
-        "image": "",
+        "location": "London · Contract",
         "website": "//johnlewis.com/upholstery-beta",
         "date": ["2018/01"]
+      },
+      {
+        "company": "Camelot Lottery Solutions",
+        "name": "camelot",
+        "location": "London · Contract",
+        "website": "//johnlewis.com/upholstery-beta",
+        "date": ["2017"]
+      },
+      {
+        "company": "Rightmove",
+        "name": "rightmove",
+        "location": "London · Contract",
+        "website": "//johnlewis.com/upholstery-beta",
+        "date": ["2016/12"]
       }
     ]
   },
   {
     "company": "Vice Media",
     "name": "vice",
-    "location": "London",
-    "image": "",
+    "location": "London · Contract",
     "website": "//johnlewis.com/upholstery-beta",
-    "date": ["2016", "2016"]
-  },
-  {
-    "company": "BT",
-    "name": "bt",
-    "location": "London",
-    "image": "",
-    "website": "//johnlewis.com/upholstery-beta",
-    "date": ["2012", "2014"],
-    "outsourced": [
-      {
-        "company": "Publicis Sapient",
-        "name": "sapient",
-        "location": "London",
-        "image": "",
-        "website": "//johnlewis.com/upholstery-beta",
-        "date": ["2014", "2014"]
-      }
-    ]
-  },
-  {
-    "company": "Flow Communications",
-    "name": "flow",
-    "location": "Johannesburg - South Africa",
-    "image": "",
-    "website": "//johnlewis.com/upholstery-beta",
-    "date": ["2010", "2012"]
+    "date": ["2016/11", "2016/12"]
   }
 ]

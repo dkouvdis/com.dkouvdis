@@ -1,12 +1,6 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
 @import 'timeline.css';
 
-/* purgecss start ignore */
-body {
-  @apply font-sans;
-}
-/* purgecss end ignore */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 

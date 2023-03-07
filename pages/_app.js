@@ -2,19 +2,9 @@ import React from 'react'
 import Head from 'next/head'
 import App from 'next/app'
 
-import ReactGA from 'react-ga'
-
 import '../css/tailwind.css'
 
 class MyApp extends App {
-  componentDidMount() {
-    if (!window.GA_INITIALIZED) {
-      ReactGA.initialize('UA-18289978-9')
-      ReactGA.pageview(window.location.pathname)
-      window.GA_INITIALIZED = true
-    }
-  }
-
   render() {
     const { Component, pageProps } = this.props
     return (
