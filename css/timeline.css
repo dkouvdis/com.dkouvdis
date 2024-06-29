@@ -1,7 +1,0 @@
-.timeline li > div {
-  border-left: 4px solid #333;
-}
-
-.timeline--child li > div {
-  border-color: #999;
-}
