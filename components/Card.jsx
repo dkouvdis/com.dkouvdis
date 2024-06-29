@@ -17,7 +17,7 @@ const Card = () => (
       <hr className="w-32 my-3 mx-auto border border-gray-300 bg-gray-300" />
 
       <article className="p-2 text-sm leading-normal text-gray-700">
-        <p className="mb-2">I'm a Front-End developer based in London.</p>
+        <p className="mb-2">I'm a Full-Stack Developer based in London.</p>
         <p className="mb-2">
           I specialise in producing high-quality interfaces for client-side web
           applications in HTML5, CSS3 and Javascript.
