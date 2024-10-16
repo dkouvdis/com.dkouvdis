@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.13",
-    "next": "^13.2.3",
-    "postcss": "^8.4.21",
+    "next": "^13.5.7",
+    "postcss": "^8.4.31",
     "prettier": "^2.8.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
